@@ -1,4 +1,4 @@
-# 🔭 NASA_ImgOrVid_Of_The_Day
+# 🔭 NASA Image or Video of the Day!
 Use this program if you want to see the NASA image of the day!
 
 # 📷 Images
